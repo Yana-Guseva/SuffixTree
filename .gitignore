@@ -1,0 +1,6 @@
+*.iml
+.idea
+target
+*.mwb
+*.bak
+*.png
